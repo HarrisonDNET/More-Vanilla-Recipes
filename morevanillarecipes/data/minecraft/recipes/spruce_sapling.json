@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " 2 ",
+        "31 "
+     ],
+     "key": {
+        "1": {
+           "item": "minecraft:spruce_log"
+        },
+		"2": {
+			"item": "minecraft:spruce_leaves"
+		},
+		"3": {
+			"item": "minecraft:wheat_seeds"
+		}
+    },
+    "result": {
+        "item": "minecraft:spruce_sapling",
+        "count": 4
+    }
+}

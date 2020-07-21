@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " 1 ",
+        "23 "
+     ],
+     "key": {
+        "1": {
+           "item": "minecraft:flower_pot"
+        },
+        "2": {
+            "item": "minecraft:black_dye"
+        },
+		"3": {
+            "item": "minecraft:green_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:zombie_head",
+        "count": 1
+    }
+}

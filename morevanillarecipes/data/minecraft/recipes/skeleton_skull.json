@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " 15",
+        "234"
+     ],
+     "key": {
+        "1": {
+           "item": "minecraft:flower_pot"
+        },
+        "2": {
+            "item": "minecraft:white_dye"
+        },
+		"3": {
+            "item": "minecraft:gray_dye"
+        },
+		"4": {
+            "item": "minecraft:light_gray_dye"
+        },
+		"5": {
+            "item": "minecraft:black_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:skeleton_skull",
+        "count": 1
+    }
+}

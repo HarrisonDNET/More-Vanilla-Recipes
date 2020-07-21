@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "000",
+        "111",
+        "222"
+     ],
+     "key": {
+        "1": {
+           "item": "minecraft:grass"
+        },
+        "2": {
+            "item": "minecraft:dirt"
+        },
+        "0": {
+            "item": "minecraft:air"
+        }
+    },
+    "result": {
+        "item": "minecraft:grass_block",
+        "count": 3
+    }
+}
